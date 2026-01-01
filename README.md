@@ -1,7 +1,7 @@
 <!-- Profile Banner (Optional) -->
-<!-- <p align="center">
-  <img src="banner.png" alt="Rinku Gautam Banner" />
-</p> -->
+ <p align="center">
+  <img src="banner.gif" alt="Rinku Gautam Banner" />
+</p>
 
 <h1 align="center">Hi 👋, I'm Rinku Gautam</h1>
 
