@@ -76,10 +76,10 @@ Personal portfolio showcasing projects, skills, and experience.
 
 ## 🤝 Connect With Me
 
-- 🌐 Portfolio: *Add your portfolio link*
-- 💼 LinkedIn: *Add LinkedIn profile link*
-- 🧠 LeetCode: *Add LeetCode profile*
-- 📧 Email: your-email@gmail.com
+- 🌐 Portfolio: https://rinkug.netlify.app/
+- 💼 LinkedIn: https://www.linkedin.com/in/rinku-gautam-02a126201/
+- 🧠 LeetCode: https://leetcode.com/u/MpTRSpax9M/
+- 📧 Email: rinkug88089@gmail.com
 
 ---
 
