@@ -34,9 +34,6 @@ I love turning ideas into clean, responsive, and user-friendly digital experienc
 📧 **rinkug88089@gmail.com**  
 📱 **+91 88089 30626**
 
-📄 Know about my experience  
-👉 **My Resume** (available in this repository)
-
 </td>
 
 <td width="40%" align="center">
