@@ -18,9 +18,9 @@ I love turning ideas into clean, responsive, and user-friendly digital experienc
 
 ## 👨‍💻 About Me
 
-<p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" alt="coding gif">
-</p>
+<table>
+<tr>
+<td width="60%">
 
 🌱 I’m currently working with **React.js** and learning the **MERN Stack**
 
@@ -33,6 +33,19 @@ I love turning ideas into clean, responsive, and user-friendly digital experienc
 📫 How to reach me  
 📧 **rinkug88089@gmail.com**  
 📱 **+91 88089 30626**
+
+📄 Know about my experience  
+👉 **My Resume** (available in this repository)
+
+</td>
+
+<td width="40%" align="center">
+
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" alt="coding gif"/>
+
+</td>
+</tr>
+</table>
 
 ---
 
