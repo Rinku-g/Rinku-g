@@ -18,12 +18,21 @@ I love turning ideas into clean, responsive, and user-friendly digital experienc
 
 ## 👨‍💻 About Me
 
-- 💼 **Frontend Developer** with **3+ years of real-world experience**
-- ⚛️ Strong experience in **React.js & Modern JavaScript (ES6+)**
-- 🌱 Currently learning **MERN Stack (MongoDB, Express, Node.js)**
-- 🎯 Focused on **performance, clean code, and UI/UX best practices**
-- 💬 Ask me about **React, JavaScript, HTML, CSS, Tailwind**
-- 📫 Reach me at: **rinkug88089@gmail.com**
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" alt="coding gif">
+</p>
+
+🌱 I’m currently working with **React.js** and learning the **MERN Stack**
+
+👨‍💻 All of my projects are available on **My Portfolio**  
+👉 https://rinkug.netlify.app/
+
+💬 Ask me about  
+**HTML, CSS, JavaScript, React.js, Next.js, DSA, MySQL, Tailwind CSS, Bootstrap, Material UI, Git, API Integration**
+
+📫 How to reach me  
+📧 **rinkug88089@gmail.com**  
+📱 **+91 88089 30626**
 
 ---
 
