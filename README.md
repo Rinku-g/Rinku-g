@@ -53,29 +53,35 @@ I love turning ideas into clean, responsive, and user-friendly digital experienc
 
 ## 📌 Projects
 
-🔹 **SEWANXT**  
+🔹 **SEWANXT**
+
 A responsive dashboard with reusable components, API integration, and clean UI.
 
 🔹 **GeoSpatial Crop Monitoring System**  
+
 Geospatial Crop Monitoring System (GCMS) is a web-based system developed by AICIL with NRSC. It uses satellite images and mobile field data to monitor and assess crops. The system is easy to use and helps insurance teams take better and faster decisions based on accurate crop information.
 Built with React and JavaScript featuring form validation and dynamic data handling.
 
-🔹 **AIC OF INDIA LIMITED**  
+🔹 **AIC OF INDIA LIMITED**
+
 Agriculture Insurance Company of India Limited (AIC) is an Indian public sector company headquartered in New Delhi.
 It is a government-owned agricultural insurance company under the Ministry of Finance, Government of India, providing insurance protection to farmers against crop-related risks.
 A modern web application built with React and JavaScript, supporting real-time validation and dynamic data management.
 
-🔹 **Internal Portal Of Aic & KMS(Knowledge Management System) Portal**  
+🔹 **Internal Portal Of Aic & KMS(Knowledge Management System) Portal**
+
 AIC Internal Portal & Knowledge Management System (KMS) is a centralized web platform used by Agriculture Insurance Company of India Limited employees for daily operations and information access.
 
 The Internal Portal provides easy access to internal applications such as Helpdesk, Archival Solutions, office contacts, circulars, announcements, holidays list, and quick links like IRDAI resources. It also supports role-based access for officers and staff.
 
 The Knowledge Management System (KMS) helps employees store, search, and share important documents, guidelines, policies, and best practices. It improves knowledge sharing, reduces dependency on manual communication, and supports faster decision-making across departments.
 
-🔹 **Kanabix**
+🔹 **Kanabix Ecommerce Website**
+
 Kanabix is the world’s most trusted destination to discover cannabis products and order them from legal, licensed retailers. More than 100 million people visit Kanabix each year to learn about cannabis products and place online orders with local, licensed businesses.
 
-🔹 **Audit Connect**
+🔹 **Audit Connect App**
+
 Audit Connect is a centralized platform designed to manage and streamline the audit process. It enables smooth communication between auditors, departments, and management by providing tools for audit planning, observations, compliance tracking, and reporting. The system helps ensure transparency, accountability, and timely closure of audit activities.
 
 ---
