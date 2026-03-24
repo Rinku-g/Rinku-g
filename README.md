@@ -25,7 +25,7 @@ I love turning ideas into clean, responsive, and user-friendly digital experienc
 🌱 I’m currently working with **React.js** and learning the **MERN Stack**
 
 👨‍💻 All of my projects are available on **My Portfolio**  
-👉 https://rinkug.netlify.app/
+👉 https://rinkug.vercel.app/
 
 💬 Ask me about  
 **HTML, CSS, JavaScript, React.js, Next.js, DSA, MySQL, Tailwind CSS, Bootstrap, Material UI, Git, API Integration**
